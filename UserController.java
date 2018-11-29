@@ -5,6 +5,7 @@ public class TestGit{
 		System.out.println("hello")
 		我会哈哈哈 modify by haihong123
 		我会哈哈哈 edit by chh
+		hhahaaa edit by fxe
 		
 	}
 
